@@ -10,6 +10,12 @@
 
 ## 🚀 Technologies
 
+Tecnologias usadas para inicialização do projeto
+
+- [Vite](https://vitejs.dev/)
+- [Yarn](https://yarnpkg.com/) 
+
+
 Tecnologias usadas no desenvolvimento do prejeto em curso
 
 - [React.js](https://reactjs.org/)
