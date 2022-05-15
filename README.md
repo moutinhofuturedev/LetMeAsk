@@ -30,7 +30,9 @@ Tecnologias usadas no desenvolvimento do prejeto em curso
 ## 💻 Sobre o projeto
 <p>O LetMeAsk foi desenvolvido dentro do Discord ( plataforma de cursos ) da Rockeseat.A aplicação tem como objetivo auxiliar na criação de lives com chat de perguntas e respostas para a audiência.O administrador cria uma sala com tema e compartilha o código com todos os participantes, e assim todos podem tirar suas dúvidas de forma instantânea.</p>
 
-### Veja a aplicação no ar https://letmeask-86b47.web.app/
+
+<h3>Veja a aplicação no ar <a href="https://letmeask-86b47.web.app/" target="_blank">LetMeAsk</a></h3>
+
 
 ---
 
